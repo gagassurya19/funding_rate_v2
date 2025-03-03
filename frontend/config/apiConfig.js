@@ -1,4 +1,4 @@
-const baseUrl = 'https://u2ebl8ap4ddf.share.zrok.io/';
+const baseUrl = 'https://u2ebl8ap4ddf.share.zrok.id';
 const coinMarketCapApiKey = 'd1b90582-1f85-4dee-8c31-2d43c234a453';
 
 export const API_CONFIG = {
